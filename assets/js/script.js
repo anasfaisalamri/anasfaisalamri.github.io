@@ -64,7 +64,7 @@ let isiProject = `${myProject
               e.github
                 ? "<a href=" +
                   e.github +
-                  "target='_blank' class='btn btn-primary'>Github</a>"
+                  " target='_blank' class='btn btn-primary'>Github</a>"
                 : ""
             }
             <a href="${e.url}" target="_blank" class="btn btn-primary">Open</a>
